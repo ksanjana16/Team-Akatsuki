@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Binary_Probing
+comment1.params=n1
+comment1.target=Binary_Probing(int)
+comment2.params=val\ index
+comment2.target=void\ insert(int,\ int)
+comment3.params=val
+comment3.target=void\ prober(int)
+comment4.params=low\ high
+comment4.target=void\ resolver(int,\ int)
+comment5.params=
+comment5.target=void\ display()
+numComments=6
