@@ -1,2 +1,0 @@
-# Team-Akatsuki
-Binary probing
